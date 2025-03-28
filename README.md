@@ -6,15 +6,32 @@
   <pre style="margin-bottom: 20px;">
     🏫 Currently a student at Champlain College
     💼 My major is Cybersecurity & Computer Networking
-    📖 3rd year!!!   
+    📖 3rd year!!! 
     🤔 I preach Kali Linux, Homebrew, and WSL Tools
     🔨 This github is a work in progress, but soon to be completed
   </pre>
 </div>
 
 
-<img src="" width="30px">&nbsp;***Welcome***
+<img src="https://github.com/louismattiolo/louismattiolo/blob/c79a5cdc32e3a64b0e6ffcd14c624f2849fd1d0a/frog-mother.gif" width="30px">&nbsp;***GitHub Information.***
+<img align="right" style="margin-left: -20px;" width=300px alt="gorilla-monkey" src="https://github.com/louismattiolo/louismattiolo/blob/main/gorilla-monkey.gif"/>
+<br> ---------------------------------------------------------------------------------------------------------<br>
+As a student at Champlain College, my goal for this GitHub is <br> to build a well-documented set of <strong>Tech Journals</strong> to be used for future projects and reference.<br>
+Reach out to me via <a href="mailto:louis.mattiolo@mymail.champlain.edu">email</a> if you have any questions or would just like to chat!<br> <br>
+I hope you enjoy your stay and maybe learn something new! 🚀💫
+<br> ---------------------------------------------------------------------------------------------------------
+</div>
 
-As a Student my goal for this GitHub is to build a well-documented <br> set of <strong>tech journals</strong> to be used for future projects/reference.<br> Always looking for new project Ideas! <br>
+#### 📂 Quick Links
+- [Tech Journal](https://github.com/louismattiolo/Tech-Journal)    • [Wii Homebrew Guide]() 
 
-I hope you enjoy your stay and maybe learn something new! 🚀
+---------------------------------------------------------------------------------------------------------
+
+<h3 align="center">
+  &nbsp;"Learn continuously, there will always be something new to learn."
+  <br>
+  <sub><em>- Steve Jobs</em></sub>
+</h3>
+
+
+
