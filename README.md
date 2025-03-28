@@ -13,7 +13,7 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Welcome***
+<img src="" width="30px">&nbsp;***Welcome***
 
 As a Student my goal for this GitHub is to build a well-documented <br> set of <strong>tech journals</strong> to be used for future projects/reference.<br> Always looking for new project Ideas! <br>
 
