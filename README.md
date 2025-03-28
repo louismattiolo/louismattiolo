@@ -24,13 +24,13 @@ I hope you enjoy your stay and maybe learn something new! 🚀💫
 #### 📂 Quick Links
 - [Tech Journal](https://github.com/louismattiolo/Tech-Journal)    • [Wii Homebrew Guide]() 
 
----------------------------------------------------------------------------------------------------------
-
+<div align="center">
+<br>
 <h3 align="center">
   &nbsp;"Learn continuously, there will always be something new to learn."
   <br>
   <sub><em>- Steve Jobs</em></sub>
 </h3>
-
+</div>
 
 
