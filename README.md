@@ -5,9 +5,9 @@
   <br><br>
   <pre style="margin-bottom: 20px;">
     🏫 Currently a student at Champlain College
-    💼 My major is Cybersecurity & Computer Networking
-    📖 3rd year!!! 
-    🤔 I preach Kali Linux, Homebrew, and WSL Tools
+    💼 My major is Cybersecurity & Computer Networking with a minor in Digital Forensics
+    📖 4th year!!! 
+    🤔 Currently working on Capstone, learning Malware Analysis, Threat Hunting, and Ethical Hacking
     🔨 This github is a work in progress, but soon to be completed
   </pre>
 </div>
