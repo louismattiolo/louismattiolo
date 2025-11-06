@@ -22,7 +22,7 @@ I hope you enjoy your stay and maybe learn something new! 🚀💫
 </div>
 
 #### 📂 Quick Links
-- [Tech Journal](https://github.com/louismattiolo/Tech-Journal)    • [Wii Homebrew Guide]()        •[Capstone](https://github.com/tmansfield42/Capstone/wiki)
+- [Tech Journal](https://github.com/louismattiolo/Tech-Journal)       •[Capstone](https://github.com/tmansfield42/Capstone/wiki)
 
 <div align="center">
 <br>
