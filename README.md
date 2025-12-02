@@ -22,7 +22,8 @@ I hope you enjoy your stay and maybe learn something new! 🚀💫
 </div>
 
 #### 📂 Quick Links
-- [Tech Journal](https://github.com/louismattiolo/Tech-Journal)       •[Capstone](https://github.com/tmansfield42/Capstone/wiki)
+- [Tech Journal](https://github.com/louismattiolo/Tech-Journal)       •[Capstone](https://github.com/tmansfield42/Capstone/wiki)     •[Chrome Remote Desktop Fix](https://github.com/louismattiolo/Fix-Chrome-Remote-Desktop)
+
 
 <div align="center">
 <br>
