@@ -18,7 +18,7 @@
 <div align="left">
 As a student at Champlain College, my goal for this GitHub is <br> to build a well-documented set of <strong>Tech Journals</strong> to be used for future projects and reference.<br>
 Reach out to me via <a href="mailto:louis.mattiolo@mymail.champlain.edu">email</a> if you have any questions or would just like to chat!<br> <br>
-I hope you enjoy your stay and maybe learn something new! 🚀💫
+I hope you enjoy your stay and maybe learn something new! 
 </div>
 
 #### 📂 Quick Links
