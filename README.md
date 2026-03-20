@@ -4,11 +4,10 @@
   </a>
   <br><br>
   <pre style="margin-bottom: 20px;">
-    🏫 Currently a student at Champlain College
-    💼 My major is Cybersecurity & Computer Networking with a minor in Digital Forensics
-    📖 4th year!!! 
-    🤔 Currently working on Capstone, learning Malware Analysis, Threat Hunting, and Ethical Hacking
-    🔨 This github is a work in progress, but soon to be completed
+     Currently a student at Champlain College
+     Cybersecurity & Computer Networking with a minor in Digital Forensics
+     4th year!!!
+    
   </pre>
 </div>
 
@@ -23,7 +22,7 @@ I hope you enjoy your stay and maybe learn something new!
 
 #### 📂 Quick Links
 - [Tech Journal](https://github.com/louismattiolo/Tech-Journal)       •[Capstone](https://github.com/tmansfield42/Capstone/wiki)     •[Chrome Remote Desktop Fix](https://github.com/louismattiolo/Fix-Chrome-Remote-Desktop)
-
+- [Infrastructure Automation & Virtualization](https://github.com/louismattiolo/SEC-480)            •[Ethical Hacking & Penetration Testing](https://github.com/louismattiolo/SEC-335/wiki)     
 
 <div align="center">
 <br>
