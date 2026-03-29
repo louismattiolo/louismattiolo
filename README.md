@@ -7,7 +7,6 @@
      Currently a student at Champlain College
      Cybersecurity & Computer Networking with a minor in Digital Forensics
      4th year!!!
-    
   </pre>
 </div>
 
